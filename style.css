@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    font-family: 'Simonetta' 20%;
+}
+h1{
+    size: 250px;
+}
+.highlight{
+    color: blue
+}
+.one{
+    width: 40%;
+    float: left;
+    margin: 5%;
+}
+img{
+    width: 100%;
+    float: left;
+    margin-top: -50%;
+}
+.background{
+    background-image: url("pic/header-bg.png");
+}
+section{
+    height: 500px;
+   
+}
+.link-button{
+    text-decoration: none;
+    background-color: blueviolet;
+    background-image: linear-gradient(pink,tomato);
+    padding: 10px 20px;
+    border-radius: 9%;
+    color: white;
+    font-size: 800;
+}
+#one{
+    float: left; 
+}
+.bio{
+    width: 40%;
+    float: right;
+    margin-top: -20%;
+}
+.my-work{
+    text-align: center;
+    margin-top: 20%;
+    font-weight: 700;
+}
+.column{
+    margin-top:-22%;
+    width: 45%;
+    float: left;
+}
+.c2{
+    margin-top:-22%;
+    width: 45%;
+    float: right;
+    border-bottom: aqua;
+}
+.cen{
+    text-align: center;
+    width: 500px;
+    margin-top: -60%;
+    padding-left: 19%;
+}
+.co{
+    float: right;
+    width: 45%;
+    padding-left: 5%;
+}
+.last{
+    text-decoration: none;
+    background-image: linear-gradient(pink,tomato);
+    padding: 50px 30px;
+    color: white;
+    font-size: 800;
+    margin: 15%;
+    border-radius: 4%;
+    height: 35px;
+    text-align: center;
+    text-size-adjust: 52%; 
+}
+.lastt{
+    padding-top: 3%;
+    margin: auto;  
+}
+.nai{
+    padding-left: 5%;
+}
+.fo{
+    text-align: center;
+}
+
+ 
+    
+  
